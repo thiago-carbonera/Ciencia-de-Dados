@@ -1,0 +1,14 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Dados brutos e tratados (grandes volumes)
+*.csv
+*.parquet
+data/
+
+# Arquivos de sistema e Python
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
