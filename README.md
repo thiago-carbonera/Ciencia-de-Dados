@@ -7,6 +7,15 @@ Trabalho da disciplina de Ciência de Dados. O objetivo é entender como clima, 
 | 1. Definição do problema | 10/11 | proposta |
 | 2. Preparação e integração | 17/11 | scripts, notebook e bases em Parquet |
 
+## Integrantes
+
+| Nome | GitHub |
+|---|---|
+| Bruno Masayuki Guskuma | [@MasayukiBG](https://github.com/MasayukiBG) |
+| Thiago Riemma Carbonera | [@thiago-carbonera](https://github.com/thiago-carbonera) |
+| Victórya Carolina Guimarães da Luz | [@turner404](https://github.com/turner404) |
+| Vinicius Gabriel Bezerra Martins | [@vinis1910](https://github.com/vinis1910) |
+
 ## Fontes de dados
 
 Todos os dados são públicos. O script `src/coleta.py` baixa tudo automaticamente.
